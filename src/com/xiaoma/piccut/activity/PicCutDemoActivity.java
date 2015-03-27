@@ -87,9 +87,9 @@ public class PicCutDemoActivity extends Activity implements OnClickListener {
 	public void onClick(View v) {
 		switch (v.getId()) {
 
-		case R.id.imageView1:
-			showDialog();
-			break;
+//		case R.id.imageView1:
+//			showDialog();
+//			break;
 		case R.id.getpicture:
 			showDialog();
 			break;
